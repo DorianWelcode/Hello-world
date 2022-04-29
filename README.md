@@ -1,4 +1,3 @@
-# Hello-world
-practicing github
-My name is Dorian
-I am practicing on Github
+# Branch 2 of Hello world
+Still practicing github
+Trying to find more info
